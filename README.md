@@ -9,7 +9,7 @@ This repository contains the source code for the deCharge Program Library.
 3. [Usage](#usage)
 4. [test](#test)
 
-##test
+
 
 ## Introduction
 
@@ -116,5 +116,8 @@ struct ChargerSessionArgs {
     amount: u64
 }
 ```
+
+
+##test
 
 The tests file is enough to understand the overall frontend integration with the program.
